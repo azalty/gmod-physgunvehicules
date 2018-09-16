@@ -7,3 +7,5 @@ Falco's Prop Protection Compatibility :
 
 ## Configuration
 No configuration needed.
+
+## Version 1.0.0
