@@ -1,0 +1,5 @@
+Take PhysgunVehicules and put it into your garrysmod/addons folder.
+
+DO NOT COPY .github or README.txt and HOW TO INSTALL.txt
+
+Be sure to read README.txt before installing.
