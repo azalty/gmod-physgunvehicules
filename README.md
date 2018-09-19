@@ -5,6 +5,8 @@ Allows admins to physgun vehicules and disallows users to do it. Compatible with
 Falco's Prop Protection Compatibility :
 - Remove prop_vehicle_jeep from the blocked physgun entities, let the script do his job.
 
+**This addon doesn't need DarkRP to work.**
+
 ## Configuration
 No configuration needed.
 
