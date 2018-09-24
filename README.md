@@ -11,3 +11,4 @@ Falco's Prop Protection Compatibility :
 No configuration needed.
 
 ## Version 1.0.0
+Official releases : https://github.com/rlevet/gmod-physgunvehicules/releases
