@@ -3,7 +3,7 @@ This only includes addon (PhysgunVehicules) changes and NOT repository changes.
 This includes unofficial versions that are not realeased yet. It may have bugs.
 To find officials versions and releases, go check here https://github.com/rlevet/gmod-physgunvehicules/releases
 
-Actual version : 1.0.0 (RELEASED)
+Actual version : 1.0.1 (BETA)
 
 
 ## Version 1.0.1
