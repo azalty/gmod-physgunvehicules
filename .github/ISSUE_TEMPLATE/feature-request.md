@@ -11,4 +11,4 @@ A clear description of what you want to be added/changed.
 Is there any reason?
 
 ### Media
-If any, paste them here.
+If any, paste it here.
